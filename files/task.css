@@ -1,0 +1,95 @@
+.demo{
+    position: absolute;
+    background-color: rgb(216, 24, 24);
+    height:40px;
+    width:100px;
+    text-align: center;
+    color: white;
+    top: 6px;
+    right: 0px;
+    font-size: 18px;
+  } 
+  .demo2{ 
+    height: 600px;
+    width: auto;
+    background-color: rgb(14, 13, 13);
+  margin-top: 18px; 
+  justify-content: space-around; 
+  align-items: center;
+  display: flex;
+  }
+  div.demo3{ 
+      height: 600px;
+    width: auto;
+    /* background-color: rgb(14, 13, 13); */
+  margin-top: 18px; 
+  justify-content: space-around; 
+  align-items: center;
+  display: flex;
+    
+  }
+  div.demo4{ 
+      height: 600px;
+    width: auto;
+    background-color:  rgb(201, 215, 208);
+  margin-top: 10px; 
+  justify-content: space-around; 
+  align-items: center;
+  display: flex;
+  }
+  div.demo5{
+      height:700px;
+      width: auto;
+      background-color:yellowgreen;
+  }
+  div.demo6{
+      
+      height: 600px;
+    width: auto;
+  margin-top: 10px; 
+  justify-content: space-around; 
+  
+  }
+  
+  .imp{
+      /* margin: 20px 0px 0px 30px ; */
+      /* padding: 40px; */
+     height: 300px;
+     width: 400px;
+     color: white;
+  }
+  .imp3{
+      /* margin: 20px 0px 0px 30px ; */
+      /* padding: 40px; */
+     height: 300px;
+     width: 400px;
+     
+  }
+  .a{
+      display:inline-block;
+      margin: 20px;
+      margin-left: 40px;
+      height: 250px;
+      width: 200px;
+      background-color:  rgb(201, 215, 208);
+  
+      border-radius:5px;
+  }
+  .imp5{
+      margin-left:80px;
+  }
+  .imp6{
+      margin-left: 90px;
+      
+  }
+  
+  .green{
+      background-color: aqua;
+      height: 400px;
+      width: 100%;
+  }
+  .gray{
+      position: absolute;
+      margin-left: 600px;
+      top: 2650px;
+  }
